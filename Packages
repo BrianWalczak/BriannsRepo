@@ -1,0 +1,12 @@
+Package: com.anthopak.videoswipes
+Version: 1.0
+Section: Tweaks
+Maintainer: anthopak
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.anthopak.videoswipes.deb
+Size: 665442
+Description: VideoSwipes
+Name: VideoSwipes
+Author: anthopak
+Depiction: https://cydia.brianwalczak.com/depictions/?p=com.anthopak.videoswipes
