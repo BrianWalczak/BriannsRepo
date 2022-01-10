@@ -1,0 +1,18 @@
+1. Drag the deb to the "debs" folder
+2. Open "Packages Example.txt", and copy everything
+3. Open "Packages", and paste
+4. Configure "Packages"
+5. Open index.html, copy "container", and paste it one line below
+6. Set "PACKAGE" to the name of the package, and replace "DESCRIPTION" with a description of it
+7. Duplicate "Packages" | You should now have "Packages" AND "Packages copy"
+8. Open terminal and type the following commands:
+	"cd /Users/brianwalczak/Documents/GitHub/BriannsRepo"
+	"bzip2 Packages"
+9. Rename "Packages copy" to "Packages"
+10. Open GitHub Desktop, navigate to the gh-pages branch, type a summary, and click "Commit to gh-pages". Then, click "Pull Origin"
+
+
+
+** How to find MD5sum, SHA1, and SHA256**
+
+Go to https://Hashes.funnyfishwalter.repl.co
