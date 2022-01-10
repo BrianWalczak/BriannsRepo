@@ -1,7 +1,7 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<id>com.briannsrepo.TWEAKNAME</id>
+	<name>TWEAKNAME</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -36,10 +36,5 @@
 		<change>It has feature 2</change>
 	</changelog>
 	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
 	</links>
 </package>

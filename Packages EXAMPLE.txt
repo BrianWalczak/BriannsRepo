@@ -1,0 +1,12 @@
+Package: com.briannsrepo.TWEAKNAME
+Version: 1.0
+Section: Tweaks
+Maintainer: Briann
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/DEBFILE.deb
+Size: TWEAK SIZE IN BYTES
+Description: PACKAGE DESCRIPTION GOES HERE
+Name: TWEAKNAME
+Author: Briann
+Depiction: https://cydia.brianwalczak.com/depictions/?p=com.briannsrepo.TWEAKNAME
