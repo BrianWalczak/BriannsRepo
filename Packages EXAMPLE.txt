@@ -6,6 +6,7 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/DEBFILE.deb
 Size: TWEAK SIZE IN BYTES
+MD5sum: MD5
 Description: PACKAGE DESCRIPTION GOES HERE
 Name: TWEAKNAME
 Author: Briann

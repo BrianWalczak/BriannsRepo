@@ -6,6 +6,7 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.anthopak.videoswipes.deb
 Size: 665442
+MD5sum: dc581f04f011dfe9ad4377f9b2c34c6d
 Description: VideoSwipes
 Name: VideoSwipes
 Author: anthopak
