@@ -15,4 +15,8 @@
 
 ** How to find MD5sum, SHA1, and SHA256**
 
-Go to https://Hashes.funnyfishwalter.repl.co
+Open hashes.sh in TextEdit
+Replace all "FILE"s with the deb file
+Open terminal, and run "sh /Users/brianwalczak/Documents/GitHub/BriannsRepo/Hashes.sh"
+Copy all of the hashes
+(When finished, make sure to edit Hashes.sh, and replace your deb file back to "FILE")
